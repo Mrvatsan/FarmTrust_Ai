@@ -1,0 +1,13 @@
+node_modules/
+.env
+*.log
+uploads/
+.expo/
+dist/
+build/
+trained_models/*.pt
+trained_models/*.tflite
+datasets/
+__pycache__/
+.idea/
+.vscode/
